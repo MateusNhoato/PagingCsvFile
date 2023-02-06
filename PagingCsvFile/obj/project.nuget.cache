@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSj/Z9FoZrX0ZeDoQQ3gU85qDwEutqI+DqvNGQV02XI2VKHVTsntW3TjpQYxdEM7tWs19RB3lU0viXG5RkE+Nw==",
+  "success": true,
+  "projectFilePath": "D:\\projetos_C#\\PagingCsvFile\\PagingCsvFile\\PagingCsvFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manho\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
